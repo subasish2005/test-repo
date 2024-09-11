@@ -1,0 +1,9 @@
+passing an function as an argument to another funciton 
+we are not waiting for the call back to happen so this is how asynchoronous operation works 
+what ever call back happens first that will be executed first
+err is error that no such file or directory found 
+asynchoronous is more faster than the synchronous programing 
+set time out schedules the execution of a function callout 
+if call stack is busy doing a funcion than all the other tasks ar paused
+the webapi pushes it on the call back queue 
+and then when the webapi is free than it will be printed out 
